@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "coastal-sector-338009",
+  "private_key_id": "eff05ddd021ec1c0c76d0ef80ed972e946e7f886",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCv//qi8k+PdWpS\nEVm9kxsnZymgi6To407rjM24WTqL1Q3oKIsSlS8n9Pca7l0EIuxV5u/cX+ynnOIw\n4oiXwXoYFD5W88HLHMJn0eMME4tdtBSw0DwT0nnOzhuBwKrVrIr/37XkZy3EEQJ9\nBuk8vNK2yIW4xdRzD8zeC0KzTofVpydSd8960M0v2CZnv2D33WKB4pAr4L2wt9hw\nbGYrA0O8UjwFo+5h3cJINenY41o+mqEOgYsj0WV/QZkJBOEqHw9AIsm3I5+nMmNl\nSWY+6aim1BsnwdwCtDtCeP4V8VJkNXzRpk9zu+rK2DBIwXIEqI5o+8TVGE/6OI6u\nlhyt66vTAgMBAAECggEAA6OMQBA4euPXlejL7TJ8bj0gzDP27eW9PPuFSVl272sx\nRWqJLZIuDmpvLXxeKfa64i/LJ8hH8VM6Df6xCkoyxwqsG0og6J0om9LoGdjRmdde\nUiWMCHDimdcDFJSyM4bEvPOYJCfJ93LOlV0uN1ZEGQleUmqssNBT0Qd0kpZ+EnnA\nbx+NiXuvDsbtIMlnSxC/TmHvX+RlUyHChEG6WXekd14HSNWu18fF2c/uq245RgmB\nQvB/SrMmuQIK1onREREWZKyMZkehu0/VpdLQIC9SjSagb/0ibRKUtx1dOZN+kkjH\n8TzcRINX19cGwFu3w9IDhMgca4eReWQ6tBEFI/k+YQKBgQDsmCGZ0t6PHfSGdApx\nD/WNSD6bpG6HAZfvOBPHhmfeW1a/CLMJv+FaZv+nhVvYm5wc1HkyKSDCGhtbv5VK\ni2Nc5jdhzlshRHASHsrQPFP0tBvNEvdBKSgPQ29G/MHsCr29UwJFASHtc+vcW3Vt\nj5NkAGpcAQwu+RWNfHl/2QK2kQKBgQC+b4XiVMZ/WkCYo0+n1cK7gZPAy4EZHH/D\nzxDmlqCy1pecL/VMpUU2pb1xHMKCJ3nU0Nggc7XZNcW5rpQgXzk/huVYo3CjnZkj\nbhUsNbM5z1s9hyzFIYdMvRYe1QjUiZQLcOLb5n00ePSHbqARZE9KwQ6hw5zZN/uA\nGcrEUbhWIwKBgQCYDLUbbH+HrpKljhHf04fVgmZqFGTL8uQ34uwjQGekaUL4hpi5\nXU1wkd0fRf9e17KefJZe/DuHQsvuTNOfErGK1JEnFD1QxfDYVF23Me4qx01OoC+y\n+sY5+PacwnfGQKjr8Vr2CeJJ/kPIXCa9gJYSoIm6ExpHXeDSCvryhP7PYQKBgQCB\nt3OKHNbs7qwrjKp4l2nC0Vu0qqowUbJRzZ0khJvH1daFxEEhyT3hIHpvLvjrMTqS\nlQNy736CC1e4yEsL1fEn7ZoRi5rxSCuE77oqWBXSHgV3XrlHOjRwOCh2LgSKyX/3\nXxiYU2Mbt/xQuDD+R8afE+wEkjsn1zNQKcFtgoC+4wKBgQDQ7fEJWx3YUKHEmn8e\npY3eLCdJqh3oTPmGRumpA1/LiPeplhBsT9eb5+3CE4x7l75wcUAhVegHne8ZkpH8\ngD6HKSjfSNLkcXGULJyvKD4cUnEe7dxgyUnrus/LNvUzkubAvIRaJs7gCQ77zqKY\nQxW0xgmlqmZjvtHk6L6FSwKy6A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-rwu4pjmwitimw4cgzzq6-pb26c@coastal-sector-338009.iam.gserviceaccount.com",
+  "client_id": "108096914497019004112",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-rwu4pjmwitimw4cgzzq6-pb26c%40coastal-sector-338009.iam.gserviceaccount.com"
+}
